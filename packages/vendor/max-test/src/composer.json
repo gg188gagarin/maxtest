@@ -1,0 +1,16 @@
+{
+    "name": "zakr/maxtestdiscount",
+    "description": "еуtest proj for max discount for ecom",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Zakr\\Maxtestdiscount\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mike zakr"
+        }
+    ],
+    "require": {}
+}
